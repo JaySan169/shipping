@@ -2,3 +2,4 @@
 
 env.COMPONENT="shipping"
 env.APPTYPE="maven"
+maven()
